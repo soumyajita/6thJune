@@ -21,3 +21,5 @@ Scenario: verify the statelist in users page
 When User enter username,password and click on login button
 And User click on user sidemenu bar
 Then User will check the statelists in userpage
+
+Scenario: verify the @gmail.com in users page
