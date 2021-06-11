@@ -12,6 +12,7 @@ Examples:
 |kiran@gmail.com|123456|
 |mangesh@gmail.com|12451|
 |soumya@gmail.com|4567|
+|sona@gmail.com|1234|
 
 
 Scenario: verify logo test
