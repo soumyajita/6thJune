@@ -15,7 +15,7 @@ Examples:
 
 
 Scenario: verify logo test
-Then User should see the Logo
+Then User will be see Logo
 
 Scenario: verify the statelist in users page
 When User enter username,password and click on login button
